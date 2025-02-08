@@ -1,0 +1,19 @@
+{
+  "name": "myreact2",
+  "version": "1.0.0",
+  "description": "This Thadimeti Raja by Myreact",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/thadimetiraju/myreact2)"
+  },
+  "keywords": [],
+  "author": "Thdimeti Raju",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
